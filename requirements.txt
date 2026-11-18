@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn
+xgboost
+lightgbm
+shap
+matplotlib
+joblib
+streamlit
+torch   # only needed for src/train_dl.py
